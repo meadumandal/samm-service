@@ -17,6 +17,7 @@ using System.Configuration;
 
 namespace SAMM
 {
+    //Git Commit Test
     partial class Service1 : ServiceBase
     {
         private System.Timers.Timer aTimer;
